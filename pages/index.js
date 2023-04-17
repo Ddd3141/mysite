@@ -261,7 +261,7 @@ export default function Home() {
               color="gray.800"
               className="text shadow"
             >
-              NAMAE MYOUJI
+              sadatoki okudaira
             </Text>
           </Flex>
         </Box>
